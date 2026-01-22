@@ -12,3 +12,6 @@
     this.fish = [],
 
 }
+
+
+|- Adult.speak()
