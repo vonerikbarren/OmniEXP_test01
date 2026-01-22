@@ -1,3 +1,5 @@
 # Commit Log.
 
 We imported this project from building it from an artificat wwith claude. 
+
+The goal here is to build a connection from my older project to this one. 
