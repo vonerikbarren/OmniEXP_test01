@@ -14,4 +14,6 @@
 }
 
 
-|- Adult.speak()
+|- Adult.speak() {
+    this.
+}
